@@ -1,0 +1,11 @@
+cache-dir: ~/.cache
+registry: default
+targets:
+  default:
+    build: npm run build
+{
+  "app": {
+    "name": "demo",
+    "debug": false
+  }
+}
